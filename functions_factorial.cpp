@@ -3,7 +3,7 @@ using namespace std;
 // This is a factorial program using function
 // for lesson https://www.youtube.com/watch?v=L-5cmL-Edxk
 // for more lessons visit https://s4ifbn.com
-// (C) Saif Bashar 2016
+// By Saif Bashar 2016
 
 int fact(int);
 
